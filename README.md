@@ -1,7 +1,7 @@
 <!-- GitHub Profile README Template -->
 
-<h1 align="center">Hi there, I'm Margaret 👋</h1>
-<p align="center">
+<h1 align="left">Hi there, I'm Margaret 👋</h1>
+<p align="left">
   <em>Frontend & Backend Learner at ALX | Digital Marketer | Storyteller | Women Empowerment Advocate</em>
 </p>
 
