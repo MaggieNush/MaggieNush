@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi there, I'm Margaret 👋</h1>
 <p align="left">
-  <em>Frontend & Backend Learner at ALX | Digital Marketer | Storyteller | Women Empowerment Advocate</em>
+  <em>Aspiring Data Scientist | Python Developer | Transforming Business Problems into Data Solutions</em>
 </p>
 
 ---
